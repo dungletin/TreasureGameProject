@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ \ Student\ Name\ \:\ Tien\ Dung\ Le\r\n\ \ Student\ ID\:\ 0005752876\r\n\ \ \r\n\ \ \r\n\ \ References\:\r\n\ \ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \r\n\ \ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \r\n\ \ Java\ GUI\:\ Full\ Course\ \u2615\ (FREE).\ (n.d.).\ YouTube.\ \r\n\ \ \ \ \ \ \ \ https\://www.youtube.com/watch?v\=Kmgo00avvEw&t\=1131s\u0000\r\n\ \ Font\ List\ \:\ Font\ \u00AB\ 2D\ Graphics\ GUI\ \u00AB\ Java\r\n\ \ \ \ \ \ \ \ http\://www.java2s.com/Code/Java/2D-Graphics-GUI/FontList.htm\r\n\ \ Java\ Button\ size\ with\ code\ examples.\ (n.d.).\ Programming\ and\ Tools\ Blog.\ \r\n\ \ \ \ \ \ \ \ https\://www.folkstalk.com/tech/java-button-size-with-code-examples/\u0000\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

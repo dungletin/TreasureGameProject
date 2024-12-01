@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TrollButton
+comment0.text=\r\n\r\n\ \ |-----------------------------------------------------------|\r\n\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ TrollButton\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\r\n\ \ |-----------------------------------------------------------|\r\n\r\n\ \ |\ \ \ \ \ \ Responsibilities\ \ \ \ \ \ \ \ \ |\ \ \ Collaborating\ Classes\ \ \ |\r\n\r\n\ \ |-------------------------------+---------------------------|\r\n\r\n\ \ |\ \ \ \ \ Hold\ the\ text\ "Troll"\ as\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\r\n\ \ |\ \ \ \ \ a\ troll\ button\ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ TrollButtonListener\ \ \ |\r\n\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ TreasureButton\ \ \ \ \ \ |\r\n\r\n\ \ |\ \ \ \ \ get\ the\ text\ when\ button\ \ |\ \ \ \ \ \ \ \ \ \ \ TreasureGame\ \ \ \ |\r\n\r\n\ \ |\ \ \ \ \ \ \ is\ clicked\ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\r\n\ \ |-------------------------------+---------------------------|\r\n\r\n
+comment1.params=game
+comment1.target=TrollButton(Game)
+comment2.params=
+comment2.target=void\ updateButton()
+comment3.params=
+comment3.target=java.lang.String\ getDefaultText()
+numComments=4

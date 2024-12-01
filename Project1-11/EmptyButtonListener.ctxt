@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EmptyButtonListener
+comment0.text=\r\n\r\n\ \ |-----------------------------------------------------------|\r\n\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ EmptyButtonListener\ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\r\n\ \ |-----------------------------------------------------------|\r\n\r\n\ \ |\ \ \ \ \ \ Responsibilities\ \ \ \ \ \ \ \ \ |\ \ \ Collaborating\ Classes\ \ \ |\r\n\r\n\ \ |-------------------------------+---------------------------|\r\n\r\n\ \ |\ \ \ \ \ disable\ button\ when\ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ \r\n\ \ |\ \ \ \ \ it's\ clicked\ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\r\n\ \ |\ \ \ \ \ of\ the\ buttons\ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ EmptyButtonListener\ \ \ |\r\n\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ TreasureButton\ \ \ \ \ \ \ \ |\r\n\r\n\ \ |\ \ \ \ \ Shows\ text\ when\ clicked\ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ \ \r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ TreasureGame\ \ \ \ \ \ \ |\r\n\r\n\ \ |\ update\ game\ when\ found\ nothing|\ \ \ \ \ \ \ TrollButton\ \ \ \ \ \ \ \ \ \ |\r\n\r\n\ \ |-------------------------------+---------------------------|\r\n\r\n
+comment1.params=button\ game
+comment1.target=EmptyButtonListener(EmptyButton,\ Game)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

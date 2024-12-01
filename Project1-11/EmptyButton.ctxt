@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EmptyButton
+comment0.text=\r\n\r\n\ \ |-----------------------------------------------------------|\r\n\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ EmptyButton\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\r\n\ \ |-----------------------------------------------------------|\r\n\r\n\ \ |\ \ \ \ \ \ Responsibilities\ \ \ \ \ \ \ \ \ |\ \ \ Collaborating\ Classes\ \ \ |\r\n\r\n\ \ |-------------------------------+---------------------------|\r\n\r\n\ \ |\ \ \ \ \ holds\ the\ default\ text\ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ EmptyButtonListener\ \ \ |\r\n\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ TreasureButton\ \ \ \ \ \ |\r\n\r\n\ \ |\ \ \ \ \ get\ the\ text\ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ TreasureGame\ \ \ \ \ \ \ |\r\n\ \ \r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ TrollButton\ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \r\n\ \ \r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \r\n\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\r\n\ \ |-------------------------------+---------------------------|\r\n\r\n
+comment1.params=
+comment1.target=EmptyButton()
+comment2.params=game
+comment2.target=EmptyButton(Game)
+comment3.params=
+comment3.target=void\ updateButton()
+comment4.params=
+comment4.target=java.lang.String\ getDefaultText()
+comment5.params=
+comment5.target=int\ getButtonPoint()
+numComments=6
